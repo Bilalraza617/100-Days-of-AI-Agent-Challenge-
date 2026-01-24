@@ -58,9 +58,9 @@ We recommend using [uv](https://github.com/astral-sh/uv) for lightning-fast Pyth
 
 ## 📅 Progress Log
 
-| Day | Project Name | Status | Key Concepts |
-|:---:|:---|:---:|:---|
-| **01** | [Task Prioritization Agent](./01) | ✅ Completed | Task Ranking, Logic Parsing, CSV Processing |
+| Day | Project Name | Type | Status | Key Concepts |
+|:---:|:---|:---:|:---:|:---|
+| **01** | [Task Prioritization Agent](./01) | 🤖 Rule-Based | ✅ Completed | Task Ranking, Logic Parsing, CSV Processing |
 | **02** | [Email Summarization Agent](./02) | 🚧 Planned | Text Extraction, Summarization, Action Items |
 | **03** | *Coming Soon* | ⏳ | ... |
 | ... | ... | ... | ... |

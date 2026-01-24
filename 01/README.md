@@ -3,6 +3,9 @@
 Welcome to Day 1 of the **100 Days of Agentic AI Challenge**!
 
 ## 📌 Overview
+**Agent Type**: 🤖 Rule-Based Agent
+**Role**: 📋 Project Manager
+
 In this challenge, you will build a smart **Task Prioritization Agent** that takes a messy list of tasks and organizes them based on urgency, impact, and effort.
 
 ## 🛠️ The Assignment

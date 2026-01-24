@@ -1,6 +1,8 @@
 # Day 1: Task Prioritization Agent 📋
 
 ## 📝 The Challenge
+**Agent Type**: Rule-Based | **Role**: Project Manager
+
 **Build a Rule-Based "Agent" that organizes your messy to-do list.**
 
 In this challenge, you will create a Python script that acts as a **Task Prioritization Agent**. It should read a list of tasks, understand their context (deadlines, difficulty, importance), and produce a clear, prioritized "Battle Plan" for the day.
