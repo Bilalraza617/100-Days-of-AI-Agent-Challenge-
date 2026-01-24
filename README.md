@@ -68,9 +68,8 @@ We recommend using [uv](https://github.com/astral-sh/uv) for lightning-fast Pyth
 ## 🚀 Let's Connect!
 
 Follow my journey and check out more updates:
-- **GitHub**: [Profile Link]
-- **LinkedIn**: [Profile Link]
-- **Twitter/X**: [Profile Link]
+- **GitHub**: [Profile Link](https://github.com/Bilalraza617)
+- **LinkedIn**: [Profile Link](https://www.linkedin.com/in/bilal-raza-2b05812a6/)
 
 ---
 *Started on: 2026-01-24*
