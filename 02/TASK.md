@@ -37,4 +37,7 @@ You will likely need:
 -   **JSON Parsing**: LLMs sometimes wrap code in \`\`\`json blocks. Make sure your code can handle that.
 
 ## 🏃 Run the Solution
-The solution will be released in 2 days! Try to build it yourself first.
+If you get stuck, check `SOLUTION.md` for the logic breakdown or run the reference solution:
+```bash
+python reference_solution.py
+```
