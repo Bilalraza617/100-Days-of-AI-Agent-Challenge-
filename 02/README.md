@@ -13,5 +13,13 @@ Your detailed instructions, requirements, and logic goals are in **[TASK.md](./T
 👉 **[Go to TASK.md to start the challenge!](./TASK.md)**
 
 ## 💡 Solution
-*The solution code and logic will be released in 48 hours.*
-Try to solve it yourself first!
+Once you've tried it yourself (or if you get stuck), check out:
+- **[SOLUTION.md](./SOLUTION.md)**: For the logic, system prompt, and detailed reasoning.
+- **[reference_solution.py](./reference_solution.py)**: For the working code.
+
+## 🏃 Run the Solution
+You can run the reference solution to see the agent in action:
+```bash
+python reference_solution.py
+```
+This will read `email.txt` and generate `summary.json` and `summary.txt`.
