@@ -63,6 +63,7 @@ We recommend using [uv](https://github.com/astral-sh/uv) for lightning-fast Pyth
 | **01** | [Task Prioritization Agent](./01) | 🤖 Rule-Based | ✅ Completed | Task Ranking, Logic Parsing, CSV Processing |
 | **02** | [Email Summarization Agent](./02) | 🧠 LLM-Based | 🚀 Active | Prompt Engineering, Structured Output, JSON |
 | **03** | *Coming Soon* | ⏳ | ... |
+| **06** | [Daily Goal Reflection Agent](./06) | 🧠 LLM-Based | 🚀 Active | Goal Review, Reflection, Action Planning |
 | ... | ... | ... | ... |
 
 ## 🚀 Let's Connect!
